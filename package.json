@@ -1,0 +1,27 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St3ve89/web-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/St3ve89/web-components/issues"
+  },
+  "homepage": "https://github.com/St3ve89/web-components#readme",
+  "dependencies": {
+    "webpack": "^4.16.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.8"
+  }
+}
